@@ -1,0 +1,3 @@
+[submodule "vendored/ex2"]
+	path = vendored/ex2
+	url = git@github.com:aequanimitas/ex2.git
